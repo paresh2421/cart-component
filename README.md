@@ -1,1 +1,1 @@
-Implementation of grocery bud from John Smilga react course
+Implementation of Cart from John Smilga react course
